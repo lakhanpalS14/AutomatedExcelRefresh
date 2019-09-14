@@ -1,0 +1,20 @@
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csproj.CoreCompileInputs.cache
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.exe.config
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.exe
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.pdb
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csproj.ResolveComReference.cache
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.exe
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.pdb
+C:\Users\v-shlakh\source\repos\RefreshPivotsExcel\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csprojAssemblyReference.cache
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.exe.config
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.exe
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\RefreshPivotsExcel.pdb
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csprojAssemblyReference.cache
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csproj.ResolveComReference.cache
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csproj.CoreCompileInputs.cache
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.exe
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.pdb
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\v-shlakh\Downloads\RefreshPivotsExcel v1.1\RefreshPivotsExcel v1.1\RefreshPivotsExcel\obj\Debug\RefreshPivotsExcel.csproj.CopyComplete
